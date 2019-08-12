@@ -1,0 +1,25 @@
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\bin\Debug\Sales Management.exe.config
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\bin\Debug\Sales Management.exe
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\bin\Debug\Sales Management.pdb
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\obj\Debug\Sales_Management.MainForm.resources
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\obj\Debug\Sales_Management.Properties.Resources.resources
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\obj\Debug\Sales Management.csproj.GenerateResource.Cache
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\obj\Debug\Sales Management.exe
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\obj\Debug\Sales Management.pdb
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\obj\Debug\Sales_Management.Product.resources
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\obj\Debug\Sales_Management.NewSales.resources
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\obj\Debug\Sales_Management.ReportForm.resources
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\obj\Debug\RdlCompile.cache
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\obj\Debug\RdlCompile.compiled
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\obj\Debug\Sales_Management.SearchForm.resources
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\obj\Debug\Sales_Management.SalesReport.resources
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\obj\Debug\Sales_Management.AboutBox.resources
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\obj\Debug\Sales Management.csprojResolveAssemblyReference.cache
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\obj\Debug\Sales_Management.BackgroundImageSetting.resources
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\obj\Debug\Sales_Management.DatabaseManipulation.resources
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\obj\Debug\Sales_Management.NewServiceCharge.resources
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\obj\Debug\Sales_Management.AddCustomTextInBill.resources
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\bin\Debug\Sales Management.exe.manifest
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\bin\Debug\Sales Management.application
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\obj\Debug\Sales Management.exe.manifest
+D:\Projects\CSharpProject\Project_Beta_Account\Sales Management\Sales Management\obj\Debug\Sales Management.application
