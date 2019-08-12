@@ -9,3 +9,5 @@ A simple sales management for restaurant. This software helps to generate receip
 	<li>Search Sales using multiple filter like ReceiptNo, Customer Name etc.</li>
 	<li>Total Sales Report</li>
 </ol>
+
+<h5>Created by Sujan Thapa And Saujan Thapa</h5>
